@@ -4,6 +4,8 @@ cygnus07/README.md<br>👋 Hi, I’m Kuldeep Singh (@cygnus07)<br><br>👀 I’m
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-singh-a61233271/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300CCBB.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/cygnus07/)
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-%230F6AC0.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Cygnus_)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23D3A800.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/cygnus01)
 
