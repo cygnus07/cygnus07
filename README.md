@@ -127,18 +127,7 @@ const kuldeep: Developer = {
   </details>
 </div>
 
-## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/cygnus07/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygnus07&repo=project-name&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/cygnus07/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygnus07&repo=another-project&theme=tokyonight" />
-  </a>
-</div>
-
-*Note: Replace "project-name" and "another-project" with your actual repositories*
 
 ## 📈 Contribution Graph
 
