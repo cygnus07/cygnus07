@@ -34,7 +34,7 @@ Production-ready REST API with complete order management
 - **Tech**: Express + PostgreSQL + Stripe payments + JWT auth
 - **Scale**: 30+ endpoints, handles concurrent transactions
 - **Testing**: 85% coverage with Jest + Supertest
-- **Code**: [Repository](https://github.com/cygnus07/ShopSmart)
+- **Code**: [Repository](https://github.com/cygnus07/Ecommerce-API)
 
 ### CodeMentor - Collaborative Code Editor
 Real-time collaborative coding platform with syntax highlighting  
