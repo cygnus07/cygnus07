@@ -1,18 +1,15 @@
 # Kuldeep Singh
-
 **Backend Developer @ BizLoom** | Building scalable Node.js systems in production
 
 Currently architecting warranty management systems handling enterprise clients. Previously reduced API response times by 70% through strategic optimization.
 
 ## 🚀 What I Do
-
 I write backend code that scales. Currently maintaining production APIs at BizLoom serving industrial clients, with a focus on performance and reliability.
 
 **Daily Stack**: Node.js, TypeScript, MongoDB, PostgreSQL, Redis  
 **Specialties**: API design, database optimization, auth systems, real-time features
 
 ## 📊 Impact & Metrics
-
 ```yaml
 Production Experience: 8+ months shipping real features to real users
 Performance: Achieved sub-200ms response times for complex MongoDB aggregations  
@@ -29,6 +26,14 @@ Full-stack SaaS with GPT-4 integration for smart task prioritization
 - **Impact**: 3-5x query performance via Redis, WebSocket real-time sync
 - **Code**: [Repository](https://github.com/cygnus07/TaskFlow-AI) • 100+ commits, actively maintained
 
+### AuthFlow API - Professional Authentication System
+Production-ready JWT authentication API with comprehensive user management  
+- **Live API**: [authflow.kuldeepdev.me](https://authflow.kuldeepdev.me) • Node.js + TypeScript + MongoDB
+- **Documentation**: [Interactive API Docs](https://authflow-docs.kuldeepdev.me) • OpenAPI/Swagger with live testing
+- **Features**: JWT auth, refresh tokens, email verification, OAuth2.0, admin panel, rate limiting
+- **Impact**: Enterprise-grade security, 100 req/15min rate limits, comprehensive error handling
+- **Code**: [Repository](https://github.com/cygnus07/authflow-api) • Full test coverage with Jest
+
 ### E-commerce Backend System
 Production-ready REST API with complete order management  
 - **Tech**: Express + PostgreSQL + Stripe payments + JWT auth
@@ -36,15 +41,7 @@ Production-ready REST API with complete order management
 - **Testing**: 85% coverage with Jest + Supertest
 - **Code**: [Repository](https://github.com/cygnus07/Ecommerce-API)
 
-### CodeMentor - Collaborative Code Editor
-Real-time collaborative coding platform with syntax highlighting  
-- **Features**: Multi-user rooms, live cursor tracking, syntax support for 10+ languages
-- **Demo**: [Try it live](placeholder-link) • [Repository](https://github.com/cygnus07/codementor)
-
-
-
 ## 🎯 Current Focus
-
 - **System Design**: Studying distributed systems and microservices patterns
 - **Performance**: Deep diving into Node.js internals and V8 optimization  
 - **AI Integration**: Building practical LLM-powered features (not just wrappers)
@@ -83,6 +80,6 @@ I'm interested in backend roles where performance and scale matter.
   
   *"I don't just write code that works - I write code that scales"*
   
-  Currently employed and selective about next opportunities.
+  **Always learning, always building** ⚡
   
 </div>
