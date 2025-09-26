@@ -32,7 +32,7 @@ Production-ready JWT authentication API with comprehensive user management
 - **Documentation**: [Interactive API Docs](https://authflow-docs.kuldeepdev.me) • OpenAPI/Swagger with live testing
 - **Features**: JWT auth, refresh tokens, email verification, OAuth2.0, admin panel, rate limiting
 - **Impact**: Enterprise-grade security, 100 req/15min rate limits, comprehensive error handling
-- **Code**: [Repository](https://github.com/cygnus07/authflow-api) • Full test coverage with Jest
+- **Code**: [Repository](https://github.com/cygnus07/authflow) • Full test coverage with Jest
 
 ### E-commerce Backend System
 Production-ready REST API with complete order management  
